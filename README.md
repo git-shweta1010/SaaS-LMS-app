@@ -36,10 +36,15 @@ Developed using **Next.js, Supabase, Stripe, Clerk, and Vapi**, the application 
 ## 🧠 What I Learned
 
 -Building scalable full-stack apps with Next.js App Router
+
 -Integrating Clerk for authentication & billing
+
 -Managing subscriptions/payments via Clerk Billing
+
 -Using Supabase for realtime data and backend services
+
 -Implementing an AI voice assistant with Vapi
+
 -Deploying and monitoring a production app with Vercel + Sentry
 
 
