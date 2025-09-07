@@ -5,7 +5,7 @@ This project delivers a modern digital learning experience with features such as
 
 Developed using **Next.js, Supabase, Stripe, Clerk, and Vapi**, the application demonstrates how SaaS principles and AI can be combined to build scalable, production-ready learning platforms.
 
-🚀 **Live Demo:** [[Add your Vercel link here](https://saas-lms-app.vercel.app/)]  
+🚀 **Live Demo:** [(https://github.com/git-shweta1010/SaaS-LMS-app)]  
 📂 **Project Repo:** [SaaS-LMS-app](https://github.com/git-shweta1010/SaaS-LMS-app)  
 
 ---
