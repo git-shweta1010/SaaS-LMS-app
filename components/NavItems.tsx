@@ -7,7 +7,7 @@ import {cn} from "@/lib/utils";
 const navItems = [
     { label:'Home', href: '/' },
     { label: 'Companions', href: '/companions' },
-    { label: 'My Journey', href: 'my-journey' },
+    { label: 'My Journey', href: '/my-journey' },
 ]
 
 const NavItems = () => {
@@ -19,7 +19,8 @@ const NavItems = () => {
                 <Link
                     href={href}
                     key={label}
-                    className={cn(pathname === href && 'text-primary font-semibold')}
+                    className={cn(pathname === href && 'text-orange-600 font-semibold border-b-2 border-orange-600',
+  'pb-1')}
                 >
                     {label}
                 </Link>
