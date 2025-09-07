@@ -49,6 +49,7 @@
 
 
 
+export const dynamic = 'force-dynamic';
 
 
 import CompanionCard from "@/components/CompanionCard";
